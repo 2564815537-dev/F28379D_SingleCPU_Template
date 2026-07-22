@@ -1,0 +1,317 @@
+[
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/3.device/source/adc.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/3.device/source/asysctl.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/3.device/source/can.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/3.device/source/cla.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/3.device/source/clb.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/3.device/source/cmpss.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/3.device/source/cputimer.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/3.device/source/dac.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/3.device/source/dcsm.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/3.device/source/dma.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/3.device/source/ecap.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/3.device/source/emif.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/3.device/source/epwm.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/3.device/source/eqep.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/3.device/source/flash.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/3.device/source/gpio.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/3.device/source/hrpwm.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/3.device/source/i2c.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/3.device/source/interrupt.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/3.device/source/ipc.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/3.device/source/mcbsp.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/3.device/source/memcfg.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/3.device/source/sci.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/3.device/source/sdfm.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/3.device/source/spi.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/3.device/source/sysctl.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/3.device/source/upp.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/3.device/source/usb.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/3.device/source/version.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/3.device/source/xbar.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/4.common/source/F2837xD_Adc.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/4.common/source/F2837xD_CodeStartBranch.asm"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/4.common/source/F2837xD_CpuTimers.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/4.common/source/F2837xD_DBGIER.asm"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/4.common/source/F2837xD_DefaultISR.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/4.common/source/F2837xD_Dma.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/4.common/source/F2837xD_ECap.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/4.common/source/F2837xD_EPwm.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/4.common/source/F2837xD_EQep.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/4.common/source/F2837xD_Emif.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/4.common/source/F2837xD_Gpio.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/4.common/source/F2837xD_I2C.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/4.common/source/F2837xD_Ipc.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/4.common/source/F2837xD_Ipc_Driver.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/4.common/source/F2837xD_Ipc_Driver_Lite.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/4.common/source/F2837xD_Ipc_Driver_Util.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/4.common/source/F2837xD_Mcbsp.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/4.common/source/F2837xD_PieCtrl.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/4.common/source/F2837xD_PieVect.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/4.common/source/F2837xD_SWPrioritizedPieVect.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/4.common/source/F2837xD_Sci.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/4.common/source/F2837xD_Spi.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/4.common/source/F2837xD_SysCtrl.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/4.common/source/F2837xD_TempSensorConv.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/4.common/source/F2837xD_Upp.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/4.common/source/F2837xD_can.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/4.common/source/F2837xD_sci_io.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/4.common/source/F2837xD_sdfm_drivers.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/4.common/source/F2837xD_struct.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/4.common/source/F2837xD_usDelay.asm"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/4.common/source/device.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/5.headers/source/F2837xD_GlobalVariableDefs.c"
+   },
+   {
+      "directory" : "E:/ti/imodiandexiaowu/28379d_temp/Release",
+      "command"   : "clang++ -I\"E:/ti/imodiandexiaowu/28379d_temp\" -I\"E:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/5.headers/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/4.common/include\" -I\"E:/ti/imodiandexiaowu/28379d_temp/3.device/include\" -D_STANDALONE -D_FLASH -D_LAUNCHXL_F28379D -DCPU1 -xc",
+      "file"      : "E:/ti/imodiandexiaowu/28379d_temp/6.user/main_cpu1.c"
+   }
+]
